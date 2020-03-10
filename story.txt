@@ -1,3 +1,5 @@
 This story begins with an xteam working together on a project, named alex, bob, clark, and debbie. They are all in a CS course at a university in florida, and find out that 
 they forgot to turn in a big project by the due date, and will fail the course unless they do very well in the following project. This story begins with them realizing 
 that they forgot to turn in the project, and they meet at the library. 
+
+The x-team members meet up at the library, but Alex gets lost on the way. Bob tries to text Alex, but he doesn't know that Alex's phone died, so he ends up waiting for three hours. Bob is devestated and realizes that he may have to do the project all alone. 
